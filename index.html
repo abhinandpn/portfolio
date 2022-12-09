@@ -7,6 +7,7 @@
 	<!---custom css link---->
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 	 <link rel="stylesheet"
   href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
 
@@ -338,6 +339,7 @@
 	</script>
 
 	<script type="text/javascript" src="js/script.js"></script>
+	<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 	<script>
         $("#submit-form").submit((e)=>
 		{
@@ -346,9 +348,12 @@
                 url:"https://script.google.com/macros/s/AKfycbyBUWdIHqDsausZqogamEqwSJSgPLEP88N6dNUK8PeI428pC2Pty9Fod8EogQ14PM4/exec",
                 data:$("#submit-form").serialize(),
                 method:"post",
+				
                 success:function (response)
+				
 				{
-                    alert("Form submitted successfully")
+		
+                    swal("Good job!", "You clicked the button!", "success");
                     window.location.reload()
                     //window.location.href="https://google.com"
                 },
