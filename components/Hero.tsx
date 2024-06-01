@@ -58,10 +58,10 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            I&apos;m A Self-taught Software Developer in Kozhikode, 
-            Kerala. Passionate about scalable distributed systems, 
-            problem-solving, and writing maintainable code. 
-            Dedicated to creating fast, interactive web applications.
+            I&apos;m self-taught Golang backend developer based in Kozhikode,
+            Kerala. Passionate about building scalable distributed systems,
+            solving complex problems, and writing maintainable, efficient code.
+            Dedicated to creating fast, reliable web applications and APIs.
           </p>
 
           <a href="#about">
