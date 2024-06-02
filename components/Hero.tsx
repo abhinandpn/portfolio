@@ -64,7 +64,7 @@ const Hero = () => {
             Dedicated to creating fast, reliable web applications and APIs.
           </p>
 
-          <a href="#about">
+          <a href="https://github.com/abhinandpn/" target="_blank">
             <MagicButton
               title="Show my work"
               icon={<FaLocationArrow />}
