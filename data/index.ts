@@ -149,9 +149,9 @@ export const companies = [
   },
   {
     id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
+    name: "Golang",
+    img: "/go.svg",
+    nameImg: "/golangName.svg",
   },
   {
     id: 3,
