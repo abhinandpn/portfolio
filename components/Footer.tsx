@@ -24,7 +24,10 @@ const Footer = () => {
           Reach out to me today and let&apos;s discuss how I can help you
           achieve your goals.
         </p>
-        <a href="mailto:abhinandpndev@gmail.com" target="_blank">
+        {/* <a href="mailto: dev.abhinandpn@gmail.com" target="_blank"> */}
+        <a
+          href="https://wa.me/918086324067?text=hai%20I%20want%20to%20work%20with%20you"
+          target="_blank">
           <MagicButton
             title="Let's get in touch"
             icon={<FaLocationArrow />}
