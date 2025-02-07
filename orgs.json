@@ -1,0 +1,40 @@
+[
+    {
+        "name": "CloudSEK",
+        "position": "SDE Intern - Backend",
+        "location": "Bangalore, India",
+        "start":"APR 2024",
+        "end" : "JUN 2024",
+        "remote": false,
+        "work": [
+            "Developed and maintained multiple backend APIs using NestJS and Typescript.",
+            "Developed a bulk data upload service using AWS S3 for storage and SQS for queue management, efficiently processing CSV data into the database with status tracking.",
+            "Contributed in creating a system that prevents users from reusing old passwords"
+        ]
+    },
+    {
+        "name": "CFT Labs",
+        "position": "Web Developer Intern - Frontend",
+        "location": "Jaipur, India",
+        "start":"JUN 2023",
+        "end" : "AUG 2023",
+        "remote": true,
+        "work": [
+            "Crafted a website for a sports club from scratch using NextJS and Typescript.",
+            "Integrated REST APIs and optimized data-fetching and caching using Tanstack React Query."
+        ]
+    },
+    {
+        "name": "Hackdev Technologies",
+        "position": "Web Developer Intern - Fullstack",
+        "location": "New Delhi, India",
+        "start":"SEP 2022",
+        "end" : "DEC 2022",
+        "remote": true,
+        "work": [
+            "Enhanced CRM by integrating D3.js to visualize interconnected servers using a graph in a React frontend.",
+            "Upgraded Hackershala E-Learning Platform with video streaming, paywall integration, and React frontend optimization. Enhanced Node.js backend with new APIs.",
+            "Pioneered Cyber Complaint Monitoring web app for schools with ReactJS and Node.js, implementing secure authentication for school, teachers, and students."
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "name":"Switchr",
+        "description":"A dynamic feature flag management tool",
+        "stack":["NextJS","Golang","Redis","Postgres","Docker Compose"],
+        "github":"https://github.com/heyyakash/switchr",
+        "link":"https://switchr.dev-server.live",
+        "thumbnail":"https://ik.imagekit.io/qx5kklh3ls/switchr-main.png?updatedAt=1734786619781"
+    },
+    {
+        "name":"Vox",
+        "description":"Yet another Video Call Application",
+        "stack":["NextJS","Golang","MongoDB","Docker"],
+        "github":"https://github.com/heyyakash/VoxVideoCall",
+        "link":"https://vox.dev-server.live/",
+        "thumbnail":"https://ik.imagekit.io/qx5kklh3ls/vox.png?updatedAt=1734786666353"
+    },
+    {
+        "name":"Collabwrite",
+        "description":"At its core, Collabwrite provides a blank canvas where users can draw and sketch using a variety of tools. The interface is clean and has a chat built into it",
+        "stack":["NextJS","Appwrite"],
+        "github":"https://github.com/heyyakash/CollabWrite",
+        "link":"https://collaboration-tool.vercel.app/",
+        "thumbnail":"https://ik.imagekit.io/qx5kklh3ls/collabwrite.png?updatedAt=1734790917567"
+    },
+    {
+        "name":"Infinity Store",
+        "description":"A distributed Key-Value store written in go",
+        "stack":["Golang","Docker"],
+        "github":"https://github.com/heyyakash/infinitystore"
+    },
+    {
+        "name":"Hammer",
+        "description":"A simple HTTP load testing tool designed to help you test the performance of your web applications. ",
+        "stack":["Golang"],
+        "github":"https://github.com/heyyakash/hammer"
+    },
+    {
+        "name":"Orbis",
+        "description":"Orbis is a robust and lightweight cron scheduler, crafted in the Go programming language",
+        "stack":["Golang"],
+        "github":"https://github.com/heyyakash/orbis"
+    }
+]
